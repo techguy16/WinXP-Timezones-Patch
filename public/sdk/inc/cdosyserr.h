@@ -1680,6 +1680,15 @@
 //
 #define IDS_Kiritimati                    0x0001114EL
 
+//
+// MessageId: IDS_Chatham
+//
+// MessageText:
+//
+//  (GMT+12:45) Waitangi, Te One
+//
+#define IDS_Chatham                      0x0001114FL
+
 ///////////////////////////////////////
 // EXCDO messages
 //

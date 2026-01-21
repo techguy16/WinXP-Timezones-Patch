@@ -1309,19 +1309,26 @@ Severity     = Informational
 Facility     = Facility_Datetime
 SymbolicName = SA_TIMEZONES_TEXT74
 Language     = English
-(GMT+13:00) Nuku'alofa
+(GMT+12:45) Waitangi, Te One
 .
 MessageId    =
 Severity     = Informational
 Facility     = Facility_Datetime
 SymbolicName = SA_TIMEZONES_TEXT75
 Language     = English
-(GMT+13:00) Apia
+(GMT+13:00) Nuku'alofa
 .
 MessageId    =
 Severity     = Informational
 Facility     = Facility_Datetime
 SymbolicName = SA_TIMEZONES_TEXT76
+Language     = English
+(GMT+13:00) Apia
+.
+MessageId    =
+Severity     = Informational
+Facility     = Facility_Datetime
+SymbolicName = SA_TIMEZONES_TEXT77
 Language     = English
 (GMT+14:00) Kiritimati
 .

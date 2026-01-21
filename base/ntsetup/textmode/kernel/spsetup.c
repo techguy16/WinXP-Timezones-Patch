@@ -784,6 +784,7 @@ SpGetTimeZone(
         L" +11:00   Central Pacific : Magadan, Solomon Is., New Caledonia",
         L" +12:00   Fiji: Fiji, Kamchatka, Marshall Is.",
         L" +12:00   New Zealand : Auckland, Wellington, Christchurch",
+        L" +12:45   Chatham Islands : Waitangi, Te One",
 	L" +13:00   Tonga : Nuku'alofa",
 	L" +13:00   West Samoa : Apia",
 	L" +14:00   Line Islands : Kiritimati",
@@ -851,6 +852,7 @@ SpGetTimeZone(
         280,
         285,
         290,
+        297,
 	300,
 	305,
 	310

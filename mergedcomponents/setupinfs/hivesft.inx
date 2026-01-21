@@ -2808,6 +2808,16 @@ HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\New Zealand Standa
 00,00,03,00,00,00,03,00,02,00,00,00,00,00,00,00,\
 00,00,0a,00,00,00,01,00,02,00,00,00,00,00,00,00
 
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","Display",0x00000002,"%GMT_PLUS_1245_B_DESC%"
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","Dlt",0x00000002,"%GMT_PLUS_1245_B_DAYLIGHT%"
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","Std",0x00000002,"%GMT_PLUS_1245_B_STANDARD%"
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","MapID",0x00000002,"78,79"
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","Index",0x00010001,290
+HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Chatham Island Standard Time","TZI",0x00030003,\
+03,fd,ff,ff,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
 HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Tonga Standard Time","Display",0x00000002,"%GMT_PLUS_13_A_DESC%"
 HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Tonga Standard Time","Dlt",0x00000002,"%GMT_PLUS_13_A_DAYLIGHT%"
 HKLM,"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones\Tonga Standard Time","Std",0x00000002,"%GMT_PLUS_13_A_STANDARD%"

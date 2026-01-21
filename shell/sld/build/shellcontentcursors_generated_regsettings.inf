@@ -751,6 +751,10 @@ GMT_PLUS_12_B_DESC     = "(GMT+12:00) Auckland, Wellington, Christchurch"
 GMT_PLUS_12_B_DAYLIGHT = "New Zealand Daylight Time"
 GMT_PLUS_12_B_STANDARD = "New Zealand Standard Time"
 
+GMT_PLUS_1245_A_DESC     = "(GMT+12:45) Waitangi, Te One"
+GMT_PLUS_1245_A_DAYLIGHT = "Chatham Island Daylight Time"
+GMT_PLUS_1245_A_STANDARD = "Chatham Island Standard Time"
+
 GMT_PLUS_13_A_DESC     = "(GMT+13:00) Nuku'alofa"
 GMT_PLUS_13_A_DAYLIGHT = "Tonga Daylight Time"
 GMT_PLUS_13_A_STANDARD = "Tonga Standard Time"
